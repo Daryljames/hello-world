@@ -1,5 +1,7 @@
 # hello-world
 
-Hi there!
+I'm Daryl.
 
-I am Daryl. I like reading and playing games. I also enjoy learning new skills. If you are interested in joining me, you can always talk to me and let us see what we can do!
+I am a career shifter. From graduating as a BS psychology major, I decided to pursue my passion for coding and enrolled in Zuitt Coding Bootcamp which helped me propelled my career to becoming a full stack web developer.
+
+While I love coding, I also like reading books, manga and watching anime.
